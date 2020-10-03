@@ -1,7 +1,7 @@
 # :bulb: 아리랑 위성영상 AI 객체 검출
  아리랑 위성영상에 내재된 다수의 객체를 신속, 정확하게 탐지 가능한 인공지능 알고리즘 개발 (컴퓨터 비전,객체 검출,mAP)
 
-## :floppy_disk: 데이터셋
+## :airplane: 데이터셋
 1) train(1.34GB)
 
 - images(1.27GB), 800장) : 학습용 이미지 데이터   
@@ -28,5 +28,5 @@
 
 ## :chart_with_downwards_trend: 결과  
   
-## :computer: 기술 스택  
+## :book: 기술 스택  
 python,jupyter notebook, numpy, pandas, sklearn, pydotplus  
