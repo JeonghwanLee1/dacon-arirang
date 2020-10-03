@@ -4,7 +4,7 @@
 ## :floppy_disk: 데이터셋
 1) train(1.34GB)
 
-- images(1.27GB), 800장) : 학습용 이미지 데이터
+- images(1.27GB), 800장) : 학습용 이미지 데이터   
 <img src="https://user-images.githubusercontent.com/43736669/94993183-20fe4700-05ca-11eb-9d7b-e9b2bfdfee0a.png" height="30%" width="30%">    <img src="https://user-images.githubusercontent.com/43736669/94993192-370c0780-05ca-11eb-917d-7394de253ad2.png" height="30%" width="30%">    <img src="https://user-images.githubusercontent.com/43736669/94993373-90c10180-05cb-11eb-8775-e4fd5701f211.png" height="30%" width="30%">
 
 - json(66.6MB, 800개) : 학습용 라벨링 데이터
