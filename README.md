@@ -15,7 +15,9 @@
 
 - images(161MB, 100장) : 평가용 이미지 데이터
 
-
+![image](https://user-images.githubusercontent.com/43736669/94993183-20fe4700-05ca-11eb-9d7b-e9b2bfdfee0a.png =300x300)   
+![image](https://user-images.githubusercontent.com/43736669/94993192-370c0780-05ca-11eb-917d-7394de253ad2.png =300x300)   
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)  
 
 3) sample submission.csv
 
